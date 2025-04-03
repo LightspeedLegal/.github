@@ -1,1 +1,1 @@
-## Official Lightspeed Legal GitHub
+## Official Lightspeed GitHub
